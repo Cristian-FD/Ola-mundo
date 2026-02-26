@@ -5,4 +5,4 @@ Primeiro repositório do curso de _**Git**_ e _**Github**_!
 [x] 
 
 
-<p><b>lorem ipsulom</b></p>
+<i><b>lorem ipsulom</b></i>
